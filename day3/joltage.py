@@ -3,7 +3,7 @@ import logging
 import sys
 from functools import reduce
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.INFO)
 
 JOLTAGE_LIMIT_SAFETY_OVERRIDE = False
 
